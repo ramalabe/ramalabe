@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Terraform, CloudFormation & DevOps Tools**
 
-- 📝 I regularly write articles on [http:ratech.cloud](http:ratech.cloud)
+- 📝 I regularly write articles on [https:ratech.cloud](https:ratech.cloud)
 
 - 💬 Ask me about **Infrastructure Automation, IT Systems Administration, Azure & AWS Cloud**
 
