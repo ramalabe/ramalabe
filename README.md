@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramal</h1>
-<h3 align="center">I'm an IT Systems Administrator and a 2nd year Computer Science student based in Sri Lanka with a passion for automation, system administration and cloud technologies.i'm currently working on personal projects utilizing JAVA, Terraform, AWS, CloudFormation, Azure, Kubernetes and Docker.</h3>
+<h3 align="center">Innovative Technical Specialist with expertise in Cloud Infrastructure Management + Automation , Systems Administration , Tools and Practices of DevOps, Server and Application Troubleshooting. I specialize in optimizing IT infrastructure to minimize costs and enhance productivity.i'm currently working on personal projects utilizing JAVA, Terraform, AWS, CloudFormation, Azure, Server monitoring, Kubernetes and Docker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramalabe&label=Profile%20views&color=44ff00&style=flat-square" alt="ramalabe" /> </p>
 
