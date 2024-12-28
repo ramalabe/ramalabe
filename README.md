@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ramal</h1>
-<h3 align="center">Innovative Technical Specialist with expertise in Cloud Infrastructure Management + Automation , Systems Administration , Tools and Practices of DevOps, Server and Application Troubleshooting. I specialize in optimizing IT infrastructure to minimize costs and enhance productivity.i'm currently working on personal projects utilizing JAVA, Terraform, AWS, CloudFormation, Azure, Server monitoring, Kubernetes and Docker.</h3>
+<h3 align="center">Technology enthusiast with expertise in Cloud Infrastructure Management + Automation , Systems Administration , Tools and Practices of DevOps, Server and Application Troubleshooting. I specialize in optimizing IT infrastructure to minimize costs and enhance productivity. I work heavily with AWS, CI/CD tools, Ansible, Linux, Python, GoLang, GitOps and the dynamic world of Kubernetes, I bring a proactive approach to navigating IT complexities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramalabe&label=Profile%20views&color=44ff00&style=flat-square" alt="ramalabe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramalabe" alt="ramalabe" /></a> </p>
 
-- 🌱 I’m currently learning **Terraform, CloudFormation & DevOps Tools**
+- 🌱 I’m currently learning **Kubernetes & Golang**
 
-- 📝 I regularly write articles on [https://cloudwithramal.com](https://cloudwithramal.com)
+- 📝 I regularly write tech blogs on [https://cloudwithramal.com](https://cloudwithramal.com)
 
-- 💬 Ask me about **Infrastructure Automation, IT Systems Administration, Azure & AWS Cloud**
+- 💬 Ask me about **Infrastructure Automation, AWS Cloud, Kubernetes & GitOps**
 
 - 📫 How to reach me **ramal.abeysekera@hotmail.com**
 
